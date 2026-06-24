@@ -1,4 +1,4 @@
-# simple-web-
+# index.html
 Website for company 
 <!DOCTYPE html>
 <html lang="en">
